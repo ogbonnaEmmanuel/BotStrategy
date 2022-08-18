@@ -1,0 +1,186 @@
+0	22:15:26.846	Script Test EURUSD,H1: loaded successfully
+0	22:15:30.158	Test EURUSD,H1: initialized
+0	22:15:30.158	Test EURUSD,H1: Alert: 1.01591
+0	22:15:30.158	Test EURUSD,H1: uninit reason 0
+0	22:15:30.171	Script Test EURUSD,H1: removed
+0	22:16:11.476	Script Test EURUSD,H1: loaded successfully
+0	22:16:11.508	Test EURUSD,H1: initialized
+0	22:16:11.508	Test EURUSD,H1: Alert: 1.01579
+0	22:16:11.508	Test EURUSD,H1: uninit reason 0
+0	22:16:11.521	Script Test EURUSD,H1: removed
+0	22:17:56.981	Script Test EURUSD,H1: loaded successfully
+0	22:17:57.027	Test EURUSD,H1: initialized
+0	22:17:57.027	Test EURUSD,H1: Alert: 1.027545
+0	22:17:57.027	Test EURUSD,H1: uninit reason 0
+0	22:17:57.044	Script Test EURUSD,H1: removed
+0	22:24:01.175	Script Test EURUSD,H1: loaded successfully
+0	22:24:01.190	Test EURUSD,H1: initialized
+0	22:24:01.191	Test EURUSD,H1: Alert: 1
+0	22:24:01.191	Test EURUSD,H1: uninit reason 0
+0	22:24:01.193	Script Test EURUSD,H1: removed
+0	22:25:35.218	Script Test EURUSD,H1: loaded successfully
+0	22:25:35.253	Test EURUSD,H1: initialized
+0	22:25:35.253	Test EURUSD,H1: Alert: 20
+0	22:25:35.253	Test EURUSD,H1: uninit reason 0
+0	22:25:35.261	Script Test EURUSD,H1: removed
+0	22:26:32.457	Script Test EURUSD,H1: loaded successfully
+0	22:26:32.484	Test EURUSD,H1: initialized
+0	22:26:32.484	Test EURUSD,H1: Alert: 1
+0	22:26:32.484	Test EURUSD,H1: uninit reason 0
+0	22:26:32.497	Script Test EURUSD,H1: removed
+0	22:26:35.637	Script Test EURUSD,H1: loaded successfully
+0	22:26:35.673	Test EURUSD,H1: initialized
+0	22:26:35.676	Test EURUSD,H1: Alert: 1
+0	22:26:35.676	Test EURUSD,H1: uninit reason 0
+0	22:26:35.677	Script Test EURUSD,H1: removed
+0	22:45:29.869	Script Test EURUSD,H1: loaded successfully
+0	22:45:29.917	Test EURUSD,H1: initialized
+0	22:45:29.917	Test EURUSD,H1: Alert: sell
+0	22:45:29.917	Test EURUSD,H1: uninit reason 0
+0	22:45:29.928	Script Test EURUSD,H1: removed
+0	22:46:44.452	Script Test EURUSD,H1: loaded successfully
+0	22:46:44.502	Test EURUSD,H1: initialized
+0	22:46:44.502	Test EURUSD,H1: Alert: false
+0	22:46:44.502	Test EURUSD,H1: uninit reason 0
+0	22:46:44.512	Script Test EURUSD,H1: removed
+0	22:46:59.470	Script Test EURUSD,H1: loaded successfully
+0	22:46:59.502	Test EURUSD,H1: initialized
+0	22:46:59.502	Test EURUSD,H1: Alert: true
+0	22:46:59.502	Test EURUSD,H1: uninit reason 0
+0	22:46:59.516	Script Test EURUSD,H1: removed
+0	22:51:36.596	Script Test EURUSD,H1: loaded successfully
+0	22:51:36.627	Test EURUSD,H1: initialized
+0	22:51:36.627	Test EURUSD,H1: Alert: Minimum Stop Level=0.0 points
+0	22:51:36.627	Test EURUSD,H1: uninit reason 0
+0	22:51:36.631	Script Test EURUSD,H1: removed
+0	22:55:51.010	Script Test EURUSD,H1: loaded successfully
+0	22:55:51.050	Test EURUSD,H1: initialized
+0	22:55:51.050	Test EURUSD,H1: Alert: EURUSD
+0	22:55:51.050	Test EURUSD,H1: uninit reason 0
+0	22:55:51.056	Script Test EURUSD,H1: removed
+0	23:02:07.432	Script Test EURUSD,H1: loaded successfully
+0	23:02:07.479	Test EURUSD,H1: initialized
+3	23:02:07.479	Test EURUSD,H1: trade operations not allowed by settings
+0	23:02:07.479	Test EURUSD,H1: OrderSend failed with error #4109
+0	23:02:07.479	Test EURUSD,H1: uninit reason 0
+0	23:02:07.479	Script Test EURUSD,H1: removed
+0	23:02:18.184	Script Test EURUSD,H1: loaded successfully
+0	23:02:18.232	Test EURUSD,H1: initialized
+3	23:02:18.236	Test EURUSD,H1: trade operations not allowed by settings
+0	23:02:18.236	Test EURUSD,H1: OrderSend failed with error #4109
+0	23:02:18.236	Test EURUSD,H1: uninit reason 0
+0	23:02:18.236	Script Test EURUSD,H1: removed
+0	23:02:31.113	Automated trading enabled
+0	23:02:36.097	Script Test EURUSD,H1: loaded successfully
+0	23:02:36.114	Test EURUSD,H1: initialized
+0	23:02:36.114	Test EURUSD,H1: OrderSend failed with error #134
+0	23:02:36.114	Test EURUSD,H1: uninit reason 0
+0	23:02:36.130	Script Test EURUSD,H1: removed
+0	23:02:59.629	Script Test EURUSD,H1: loaded successfully
+0	23:02:59.667	Test EURUSD,H1: initialized
+0	23:02:59.667	Test EURUSD,H1: OrderSend failed with error #134
+0	23:02:59.667	Test EURUSD,H1: uninit reason 0
+0	23:02:59.680	Script Test EURUSD,H1: removed
+0	23:07:33.318	Script Test EURUSD,H1: loaded successfully
+0	23:07:33.352	Test EURUSD,H1: initialized
+0	23:07:33.352	Test EURUSD,H1: OrderSend failed with error #134
+0	23:07:33.352	Test EURUSD,H1: uninit reason 0
+0	23:07:33.352	Script Test EURUSD,H1: removed
+0	23:07:38.647	Script Test EURUSD,H1: loaded successfully
+0	23:07:38.686	Test EURUSD,H1: initialized
+0	23:07:38.686	Test EURUSD,H1: OrderSend failed with error #134
+0	23:07:38.686	Test EURUSD,H1: uninit reason 0
+0	23:07:38.693	Script Test EURUSD,H1: removed
+0	23:07:47.698	Script Test USDCHF,H1: loaded successfully
+0	23:07:47.722	Test USDCHF,H1: initialized
+0	23:07:47.722	Test USDCHF,H1: Alert: accEquity: 200
+0	23:07:47.722	Test USDCHF,H1: Alert: lotSize: k 100000
+0	23:07:47.722	Test USDCHF,H1: Alert: tickValue: 1.05682550754045
+0	23:07:47.722	Test USDCHF,H1: Alert: maxLossDollar: 4
+0	23:07:47.722	Test USDCHF,H1: Alert: maxLossInQuoteCurr: 3.78492
+0	23:07:47.722	Test USDCHF,H1: Alert: ooldslklotsize = 0.01
+0	23:07:47.722	Test USDCHF,H1: OrderSend failed with error #134
+0	23:07:47.722	Test USDCHF,H1: uninit reason 0
+0	23:07:47.778	Script Test USDCHF,H1: removed
+0	23:09:46.686	Script Test EURUSD,H1: loaded successfully
+0	23:09:46.737	Test EURUSD,H1: initialized
+0	23:09:46.737	Test EURUSD,H1: Alert: accEquity: 200
+0	23:09:46.737	Test EURUSD,H1: Alert: lotSize: k 100000
+0	23:09:46.737	Test EURUSD,H1: Alert: tickValue: 1
+0	23:09:46.737	Test EURUSD,H1: Alert: maxLossDollar: 4
+0	23:09:46.737	Test EURUSD,H1: Alert: maxLossInQuoteCurr: 4
+0	23:09:46.737	Test EURUSD,H1: Alert: ooldslklotsize = 0.01
+0	23:09:46.737	Test EURUSD,H1: OrderSend failed with error #134
+0	23:09:46.737	Test EURUSD,H1: uninit reason 0
+0	23:09:46.749	Script Test EURUSD,H1: removed
+0	23:10:03.071	Script Test EURUSD,H1: loaded successfully
+0	23:10:03.122	Test EURUSD,H1: initialized
+0	23:10:03.122	Test EURUSD,H1: Alert: accEquity: 200
+0	23:10:03.122	Test EURUSD,H1: Alert: lotSize: k 100000
+0	23:10:03.122	Test EURUSD,H1: Alert: tickValue: 1
+0	23:10:03.122	Test EURUSD,H1: Alert: maxLossDollar: 4
+0	23:10:03.122	Test EURUSD,H1: Alert: maxLossInQuoteCurr: 4
+0	23:10:03.122	Test EURUSD,H1: Alert: ooldslklotsize = 0.01
+0	23:10:03.124	Test EURUSD,H1: OrderSend failed with error #134
+0	23:10:03.124	Test EURUSD,H1: uninit reason 0
+0	23:10:03.126	Script Test EURUSD,H1: removed
+0	23:13:00.248	Script Test EURUSD,H1: loaded successfully
+0	23:13:00.294	Test EURUSD,H1: initialized
+0	23:13:00.298	Test EURUSD,H1: Alert: 0.01
+0	23:13:00.298	Test EURUSD,H1: OrderSend failed with error #134
+0	23:13:00.298	Test EURUSD,H1: uninit reason 0
+0	23:13:00.303	Script Test EURUSD,H1: removed
+0	23:16:12.268	Script Test EURUSD,H1: loaded successfully
+0	23:16:12.311	Test EURUSD,H1: initialized
+0	23:16:12.311	Test EURUSD,H1: Alert: 0.01
+0	23:16:12.311	Test EURUSD,H1: OrderSend failed with error #134
+0	23:16:12.311	Test EURUSD,H1: uninit reason 0
+0	23:16:12.329	Script Test EURUSD,H1: removed
+0	23:17:21.444	Script Test EURUSD,H1: loaded successfully
+0	23:17:21.493	Test EURUSD,H1: initialized
+0	23:17:21.493	Test EURUSD,H1: Alert: 1.01345
+0	23:17:21.493	Test EURUSD,H1: OrderSend failed with error #134
+0	23:17:21.493	Test EURUSD,H1: uninit reason 0
+0	23:17:21.499	Script Test EURUSD,H1: removed
+0	23:22:12.935	Script Test EURUSD,H1: loaded successfully
+0	23:22:12.966	Test EURUSD,H1: initialized
+0	23:22:12.966	Test EURUSD,H1: Alert: 1.01976
+0	23:22:12.966	Test EURUSD,H1: OrderSend failed with error #134
+0	23:22:12.966	Test EURUSD,H1: uninit reason 0
+0	23:22:12.980	Script Test EURUSD,H1: removed
+0	23:23:04.514	Script Test EURUSD,H1: loaded successfully
+0	23:23:04.551	Test EURUSD,H1: initialized
+0	23:23:04.551	Test EURUSD,H1: Alert: 1.01953
+0	23:23:04.551	Test EURUSD,H1: OrderSend failed with error #134
+0	23:23:04.551	Test EURUSD,H1: uninit reason 0
+0	23:23:04.563	Script Test EURUSD,H1: removed
+0	23:25:07.549	Script Test EURUSD,H1: loaded successfully
+0	23:25:07.586	Test EURUSD,H1: initialized
+0	23:25:07.586	Test EURUSD,H1: Alert: 1.01945
+0	23:25:07.586	Test EURUSD,H1: OrderSend failed with error #134
+0	23:25:07.586	Test EURUSD,H1: uninit reason 0
+0	23:25:07.599	Script Test EURUSD,H1: removed
+0	23:29:05.703	Script Test EURUSD,H1: loaded successfully
+0	23:29:05.786	Test EURUSD,H1: initialized
+2	23:29:06.204	Test EURUSD,H1: open #1858895004 sell 0.01 EURUSD at 1.01549 sl: 1.01876 ok
+0	23:29:06.204	Test EURUSD,H1: Alert: 1.01876
+0	23:29:06.204	Test EURUSD,H1: OrderSend placed successfully
+0	23:29:06.204	Test EURUSD,H1: uninit reason 0
+0	23:29:06.212	Script Test EURUSD,H1: removed
+0	23:38:57.863	Script Test EURUSD,H1: loaded successfully
+0	23:38:57.910	Test EURUSD,H1: initialized
+2	23:38:59.512	Test EURUSD,H1: open #1858897178 sell 0.02 EURUSD at 1.01650 sl: 1.01978 ok
+0	23:38:59.512	Test EURUSD,H1: OrderSend placed successfully
+0	23:38:59.512	Test EURUSD,H1: uninit reason 0
+0	23:38:59.514	Script Test EURUSD,H1: removed
+0	23:48:26.683	Expert IchimoReversal EURUSD,H1: loaded successfully
+0	23:48:28.235	IchimoReversal EURUSD,H1: initialized
+0	23:48:57.551	IchimoReversal EURUSD,H1: uninit reason 1
+0	23:48:57.576	Expert IchimoReversal EURUSD,H1: removed
+0	23:49:23.702	Expert IchimoReversal EURUSD,H1: loaded successfully
+0	23:49:25.149	IchimoReversal EURUSD,H1: initialized
+0	23:49:35.172	IchimoReversal EURUSD,H1: 1.01595
+0	23:49:45.186	IchimoReversal EURUSD,H1: 1.01595
+0	23:49:55.195	IchimoReversal EURUSD,H1: 1.01595
+0	23:50:01.853	IchimoReversal EURUSD,H1: uninit reason 1
+0	23:50:01.878	Expert IchimoReversal EURUSD,H1: removed

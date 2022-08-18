@@ -1,0 +1,472 @@
+0	10:50:02.994	Automated trading disabled
+3	10:50:02.995	Automated trading disabled because the account has been changed
+0	10:55:59.704	Script profitCalculator EURUSD,M30: loaded successfully
+0	10:56:05.185	Script profitCalculator EURUSD,M30: removed
+0	11:28:46.589	Compiling 'Examples\FunctionTester'
+0	11:28:51.320	Compiling 'Examples\MakeOrder'
+0	11:28:53.580	Compiling 'Examples\PeriodConverter'
+0	11:28:56.359	Compiling 'Examples\TrendChecker'
+0	11:28:59.232	Compiling 'sizing'
+0	11:31:56.933	Script Test EURUSD,M30: loaded successfully
+0	11:31:56.933	Test EURUSD,M30 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:31:56.984	Test EURUSD,M30: initialized
+0	11:31:56.984	Test EURUSD,M30: Alert: accEquity: 200
+0	11:31:56.984	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:31:56.984	Test EURUSD,M30: Alert: tickValue: 0
+0	11:31:56.984	Test EURUSD,M30: Alert: maxLossDollar: 4
+1	11:31:56.984	Test EURUSD,M30: zero divide in 'sizing.mqh' (33,47)
+0	11:31:56.990	Test EURUSD,M30: uninit reason 0
+0	11:31:56.994	Script Test EURUSD,M30: removed
+0	11:32:02.548	Script Test EURUSD,M30: loaded successfully
+0	11:32:02.548	Test EURUSD,M30 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:32:02.585	Test EURUSD,M30: initialized
+0	11:32:02.590	Test EURUSD,M30: Alert: accEquity: 200
+0	11:32:02.590	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:32:02.590	Test EURUSD,M30: Alert: tickValue: 1
+0	11:32:02.590	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	11:32:02.608	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	11:32:02.608	Test EURUSD,M30: Alert: 0.0
+0	11:32:02.608	Test EURUSD,M30: uninit reason 0
+0	11:32:02.610	Script Test EURUSD,M30: removed
+0	11:32:06.520	Script Test EURUSD,M30: loaded successfully
+0	11:32:06.520	Test EURUSD,M30 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:32:06.565	Test EURUSD,M30: initialized
+0	11:32:06.566	Test EURUSD,M30: Alert: accEquity: 200
+0	11:32:06.566	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:32:06.566	Test EURUSD,M30: Alert: tickValue: 1
+0	11:32:06.566	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	11:32:06.566	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	11:32:06.567	Test EURUSD,M30: Alert: 0.0
+0	11:32:06.567	Test EURUSD,M30: uninit reason 0
+0	11:32:06.572	Script Test EURUSD,M30: removed
+0	11:33:01.309	Script Test EURUSD,M30: loaded successfully
+0	11:33:08.062	Test EURUSD,M30 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:33:08.086	Test EURUSD,M30: initialized
+0	11:33:08.094	Test EURUSD,M30: Alert: accEquity: 200
+0	11:33:08.094	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:33:08.094	Test EURUSD,M30: Alert: tickValue: 1
+0	11:33:08.094	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	11:33:08.094	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	11:33:08.095	Test EURUSD,M30: Alert: 0.0
+0	11:33:08.095	Test EURUSD,M30: uninit reason 0
+0	11:33:08.099	Script Test EURUSD,M30: removed
+0	11:33:43.041	Script Test EURUSD,M30: loaded successfully
+0	11:34:10.655	Test EURUSD,M30 inputs: riskRt=0.2; massLossInPips=20; 
+0	11:34:10.691	Test EURUSD,M30: initialized
+0	11:34:10.700	Test EURUSD,M30: Alert: accEquity: 200
+0	11:34:10.700	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:34:10.700	Test EURUSD,M30: Alert: tickValue: 1
+0	11:34:10.700	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	11:34:10.700	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	11:34:10.726	Test EURUSD,M30: Alert: 0.0
+0	11:34:10.726	Test EURUSD,M30: uninit reason 0
+0	11:34:10.728	Script Test EURUSD,M30: removed
+0	11:34:25.453	Script Test EURUSD,M30: loaded successfully
+0	11:34:35.336	Test EURUSD,M30 inputs: riskRt=0.2; massLossInPips=20; 
+0	11:34:35.355	Test EURUSD,M30: initialized
+0	11:34:35.355	Test EURUSD,M30: Alert: accEquity: 200
+0	11:34:35.355	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:34:35.355	Test EURUSD,M30: Alert: tickValue: 1
+0	11:34:35.355	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	11:34:35.355	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	11:34:35.355	Test EURUSD,M30: Alert: 0.0
+0	11:34:35.355	Test EURUSD,M30: uninit reason 0
+0	11:34:35.357	Script Test EURUSD,M30: removed
+0	11:35:33.374	Script Test EURUSD,M30: loaded successfully
+0	11:35:35.898	Test EURUSD,M30 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:35:35.921	Test EURUSD,M30: initialized
+0	11:35:35.921	Test EURUSD,M30: Alert: accEquity: 200
+0	11:35:35.921	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:35:35.921	Test EURUSD,M30: Alert: tickValue: 1
+0	11:35:35.921	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	11:35:35.921	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	11:35:35.948	Test EURUSD,M30: Alert: 0.0
+0	11:35:35.948	Test EURUSD,M30: uninit reason 0
+0	11:35:35.953	Script Test EURUSD,M30: removed
+0	11:41:27.811	Script Test EURUSD,M30: loaded successfully
+0	11:41:29.206	Test EURUSD,M30 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:41:29.230	Test EURUSD,M30: initialized
+0	11:41:29.231	Test EURUSD,M30: Alert: accEquity: 200
+0	11:41:29.231	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:41:29.231	Test EURUSD,M30: Alert: tickValue: 1
+0	11:41:29.231	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	11:41:29.231	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	11:41:29.231	Test EURUSD,M30: Alert: 0.0
+0	11:41:29.231	Test EURUSD,M30: uninit reason 0
+0	11:41:29.234	Script Test EURUSD,M30: removed
+0	11:41:44.866	Script Test USDCHF,H1: loaded successfully
+0	11:41:47.228	Test USDCHF,H1 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:41:47.244	Test USDCHF,H1: initialized
+0	11:41:47.244	Test USDCHF,H1: Alert: accEquity: 200
+0	11:41:47.244	Test USDCHF,H1: Alert: lotSize: 1000
+0	11:41:47.244	Test USDCHF,H1: Alert: tickValue: 1.062428286090689
+0	11:41:47.244	Test USDCHF,H1: Alert: maxLossDollar: 4
+0	11:41:47.244	Test USDCHF,H1: Alert: maxLossInQuoteCurr: 3.764959999999999
+0	11:41:47.244	Test USDCHF,H1: Alert: 1.88
+0	11:41:47.244	Test USDCHF,H1: uninit reason 0
+0	11:41:47.291	Script Test USDCHF,H1: removed
+0	11:42:05.282	Script Test EURUSD,M30: loaded successfully
+0	11:42:14.391	Test EURUSD,M30 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:42:14.410	Test EURUSD,M30: initialized
+0	11:42:14.410	Test EURUSD,M30: Alert: accEquity: 200
+0	11:42:14.410	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:42:14.410	Test EURUSD,M30: Alert: tickValue: 1
+0	11:42:14.410	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	11:42:14.415	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	11:42:14.428	Test EURUSD,M30: Alert: 2.0
+0	11:42:14.428	Test EURUSD,M30: uninit reason 0
+0	11:42:14.431	Script Test EURUSD,M30: removed
+0	11:43:48.429	Script Test EURUSD,M30: loaded successfully
+0	11:44:00.589	Test EURUSD,M30 inputs: riskRt=0.2; massLossInPips=20; 
+0	11:44:00.610	Test EURUSD,M30: initialized
+0	11:44:00.610	Test EURUSD,M30: Alert: accEquity: 200
+0	11:44:00.610	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:44:00.610	Test EURUSD,M30: Alert: tickValue: 1
+0	11:44:00.610	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	11:44:00.610	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	11:44:00.610	Test EURUSD,M30: Alert: 20.0
+0	11:44:00.610	Test EURUSD,M30: uninit reason 0
+0	11:44:00.617	Script Test EURUSD,M30: removed
+0	11:50:30.788	Script Test EURUSD,M30: loaded successfully
+0	11:50:33.020	Test EURUSD,M30 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:50:33.067	Test EURUSD,M30: initialized
+0	11:50:33.067	Test EURUSD,M30: Alert: accEquity: 200
+0	11:50:33.067	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:50:33.067	Test EURUSD,M30: Alert: tickValue: 1
+0	11:50:33.067	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	11:50:33.067	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	11:50:33.095	Test EURUSD,M30: Alert: 2.0
+0	11:50:33.095	Test EURUSD,M30: uninit reason 0
+0	11:50:33.099	Script Test EURUSD,M30: removed
+0	11:51:17.593	Script Test EURUSD,M30: loaded successfully
+0	11:51:20.107	Test EURUSD,M30 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:51:20.148	Test EURUSD,M30: initialized
+0	11:51:20.149	Test EURUSD,M30: Alert: accEquity: 200
+0	11:51:20.149	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:51:20.149	Test EURUSD,M30: Alert: tickValue: 1
+0	11:51:20.149	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	11:51:20.150	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	11:51:20.150	Test EURUSD,M30: Alert: ooldslklotsize = 2
+0	11:51:20.174	Test EURUSD,M30: Alert: 2.0
+0	11:51:20.174	Test EURUSD,M30: uninit reason 0
+0	11:51:20.177	Script Test EURUSD,M30: removed
+0	11:51:52.349	Script Test EURUSD,M30: loaded successfully
+0	11:52:05.439	Test EURUSD,M30 inputs: riskRt=0.2; massLossInPips=10; 
+0	11:52:05.471	Test EURUSD,M30: initialized
+0	11:52:05.471	Test EURUSD,M30: Alert: accEquity: 200
+0	11:52:05.471	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:52:05.471	Test EURUSD,M30: Alert: tickValue: 1
+0	11:52:05.481	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	11:52:05.481	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	11:52:05.495	Test EURUSD,M30: Alert: ooldslklotsize = 40
+0	11:52:05.495	Test EURUSD,M30: Alert: 40.0
+0	11:52:05.495	Test EURUSD,M30: uninit reason 0
+0	11:52:05.501	Script Test EURUSD,M30: removed
+0	11:53:43.763	Script Test USDCHF,H1: loaded successfully
+0	11:53:47.567	Test USDCHF,H1 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:53:47.609	Test USDCHF,H1: initialized
+0	11:53:47.613	Test USDCHF,H1: Alert: accEquity: 200
+0	11:53:47.613	Test USDCHF,H1: Alert: lotSize: 1000
+0	11:53:47.613	Test USDCHF,H1: Alert: tickValue: 1.062428286090689
+0	11:53:47.613	Test USDCHF,H1: Alert: maxLossDollar: 4
+0	11:53:47.613	Test USDCHF,H1: Alert: maxLossInQuoteCurr: 3.764959999999999
+0	11:53:47.613	Test USDCHF,H1: Alert: ooldslklotsize = 0.05
+0	11:53:47.614	Test USDCHF,H1: Alert: 0.05
+0	11:53:47.614	Test USDCHF,H1: uninit reason 0
+0	11:53:47.658	Script Test USDCHF,H1: removed
+0	11:54:53.800	Script Test USDCHF,H1: loaded successfully
+0	11:54:56.075	Test USDCHF,H1 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:54:56.104	Test USDCHF,H1: initialized
+0	11:54:56.104	Test USDCHF,H1: Alert: accEquity: 200
+0	11:54:56.104	Test USDCHF,H1: Alert: lotSize: 1000
+0	11:54:56.104	Test USDCHF,H1: Alert: tickValue: 1.062428286090689
+0	11:54:56.104	Test USDCHF,H1: Alert: maxLossDollar: 4
+0	11:54:56.104	Test USDCHF,H1: Alert: maxLossInQuoteCurr: 3.764959999999999
+0	11:54:56.104	Test USDCHF,H1: Alert: ooldslklotsize = 0.05
+0	11:54:56.118	Test USDCHF,H1: Alert: 0.05
+0	11:54:56.118	Test USDCHF,H1: uninit reason 0
+0	11:54:56.152	Script Test USDCHF,H1: removed
+0	11:55:36.377	Script Test USDCHF,H1: loaded successfully
+0	11:55:39.573	Test USDCHF,H1 inputs: riskRt=0.02; massLossInPips=20; 
+0	11:55:39.594	Test USDCHF,H1: initialized
+0	11:55:39.594	Test USDCHF,H1: Alert: accEquity: 200
+0	11:55:39.594	Test USDCHF,H1: Alert: lotSize: 1000
+0	11:55:39.594	Test USDCHF,H1: Alert: tickValue: 1.062428286090689
+0	11:55:39.594	Test USDCHF,H1: Alert: maxLossDollar: 4
+0	11:55:39.596	Test USDCHF,H1: Alert: maxLossInQuoteCurr: 3.764959999999999
+0	11:55:39.596	Test USDCHF,H1: Alert: ooldslklotsize = 0.04
+0	11:55:39.596	Test USDCHF,H1: Alert: 0.04
+0	11:55:39.596	Test USDCHF,H1: uninit reason 0
+0	11:55:39.627	Script Test USDCHF,H1: removed
+0	11:56:04.687	Script Test EURUSD,M30: loaded successfully
+0	11:56:14.344	Test EURUSD,M30 inputs: riskRt=0.2; massLossInPips=20; 
+0	11:56:14.389	Test EURUSD,M30: initialized
+0	11:56:14.389	Test EURUSD,M30: Alert: accEquity: 200
+0	11:56:14.389	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:56:14.389	Test EURUSD,M30: Alert: tickValue: 1
+0	11:56:14.389	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	11:56:14.389	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	11:56:14.390	Test EURUSD,M30: Alert: ooldslklotsize = 4.76
+0	11:56:14.390	Test EURUSD,M30: Alert: 4.76
+0	11:56:14.390	Test EURUSD,M30: uninit reason 0
+0	11:56:14.395	Script Test EURUSD,M30: removed
+0	11:56:42.324	Script Test USDCHF,H1: loaded successfully
+0	11:56:43.938	Test USDCHF,H1 inputs: riskRt=0.2; 
+0	11:56:43.956	Test USDCHF,H1: initialized
+0	11:56:43.958	Test USDCHF,H1: Alert: accEquity: 200
+0	11:56:43.958	Test USDCHF,H1: Alert: lotSize: 1000
+0	11:56:43.958	Test USDCHF,H1: Alert: tickValue: 1.062428286090689
+0	11:56:43.958	Test USDCHF,H1: Alert: maxLossDollar: 40
+0	11:56:43.958	Test USDCHF,H1: Alert: maxLossInQuoteCurr: 37.64959999999999
+0	11:56:43.958	Test USDCHF,H1: Alert: ooldslklotsize = 0.41
+0	11:56:43.958	Test USDCHF,H1: Alert: 0.41
+0	11:56:43.958	Test USDCHF,H1: uninit reason 0
+0	11:56:43.994	Script Test USDCHF,H1: removed
+0	11:56:54.659	Script Test EURUSD,M30: loaded successfully
+0	11:56:57.293	Test EURUSD,M30 inputs: riskRt=0.2; 
+0	11:56:57.324	Test EURUSD,M30: initialized
+0	11:56:57.325	Test EURUSD,M30: Alert: accEquity: 200
+0	11:56:57.325	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:56:57.325	Test EURUSD,M30: Alert: tickValue: 1
+0	11:56:57.325	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	11:56:57.325	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	11:56:57.325	Test EURUSD,M30: Alert: ooldslklotsize = 4.76
+0	11:56:57.325	Test EURUSD,M30: Alert: 4.76
+0	11:56:57.325	Test EURUSD,M30: uninit reason 0
+0	11:56:57.327	Script Test EURUSD,M30: removed
+0	11:57:01.019	Script Test EURUSD,M30: loaded successfully
+0	11:57:08.948	Test EURUSD,M30 inputs: riskRt=0.3; 
+0	11:57:08.972	Test EURUSD,M30: initialized
+0	11:57:08.972	Test EURUSD,M30: Alert: accEquity: 200
+0	11:57:08.972	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:57:08.972	Test EURUSD,M30: Alert: tickValue: 1
+0	11:57:08.972	Test EURUSD,M30: Alert: maxLossDollar: 60
+0	11:57:08.972	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 60
+0	11:57:08.972	Test EURUSD,M30: Alert: ooldslklotsize = 7.14
+0	11:57:08.972	Test EURUSD,M30: Alert: 7.14
+0	11:57:08.972	Test EURUSD,M30: uninit reason 0
+0	11:57:08.977	Script Test EURUSD,M30: removed
+0	11:57:33.273	Script Test EURUSD,M30: loaded successfully
+0	11:57:41.148	Test EURUSD,M30 inputs: riskRt=0.25; 
+0	11:57:41.175	Test EURUSD,M30: initialized
+0	11:57:41.175	Test EURUSD,M30: Alert: accEquity: 200
+0	11:57:41.175	Test EURUSD,M30: Alert: lotSize: 1000
+0	11:57:41.175	Test EURUSD,M30: Alert: tickValue: 1
+0	11:57:41.175	Test EURUSD,M30: Alert: maxLossDollar: 50
+0	11:57:41.175	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 50
+0	11:57:41.175	Test EURUSD,M30: Alert: ooldslklotsize = 5.95
+0	11:57:41.175	Test EURUSD,M30: Alert: 5.95
+0	11:57:41.175	Test EURUSD,M30: uninit reason 0
+0	11:57:41.185	Script Test EURUSD,M30: removed
+0	12:11:34.974	Script Test EURUSD,M30: loaded successfully
+0	12:11:37.219	Test EURUSD,M30 inputs: riskRt=0.2; 
+0	12:11:37.253	Test EURUSD,M30: initialized
+0	12:11:37.253	Test EURUSD,M30: Alert: accEquity: 200
+0	12:11:37.253	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:11:37.253	Test EURUSD,M30: Alert: tickValue: 1
+0	12:11:37.253	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	12:11:37.253	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	12:11:37.253	Test EURUSD,M30: Alert: ooldslklotsize = 4.76
+0	12:11:37.253	Test EURUSD,M30: Alert: 4.76
+0	12:11:37.253	Test EURUSD,M30: uninit reason 0
+0	12:11:37.267	Script Test EURUSD,M30: removed
+0	12:14:05.320	Script Test EURUSD,M30: loaded successfully
+0	12:14:16.988	Test EURUSD,M30 inputs: riskRt=0.02; 
+0	12:14:17.009	Test EURUSD,M30: initialized
+0	12:14:17.009	Test EURUSD,M30: Alert: accEquity: 200
+0	12:14:17.009	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:14:17.009	Test EURUSD,M30: Alert: tickValue: 1
+0	12:14:17.009	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	12:14:17.009	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	12:14:17.009	Test EURUSD,M30: Alert: ooldslklotsize = 0.48
+0	12:14:17.009	Test EURUSD,M30: Alert: 0.48
+0	12:14:17.009	Test EURUSD,M30: uninit reason 0
+0	12:14:17.020	Script Test EURUSD,M30: removed
+0	12:14:36.759	Script Test EURUSD,M30: loaded successfully
+0	12:14:45.629	Test EURUSD,M30 inputs: riskRt=0.5; 
+0	12:14:45.672	Test EURUSD,M30: initialized
+0	12:14:45.672	Test EURUSD,M30: Alert: accEquity: 200
+0	12:14:45.672	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:14:45.672	Test EURUSD,M30: Alert: tickValue: 1
+0	12:14:45.672	Test EURUSD,M30: Alert: maxLossDollar: 100
+0	12:14:45.672	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 100
+0	12:14:45.672	Test EURUSD,M30: Alert: ooldslklotsize = 11.9
+0	12:14:45.672	Test EURUSD,M30: Alert: 11.9
+0	12:14:45.672	Test EURUSD,M30: uninit reason 0
+0	12:14:45.679	Script Test EURUSD,M30: removed
+0	12:19:09.414	Script Test EURUSD,M30: loaded successfully
+0	12:19:11.734	Test EURUSD,M30 inputs: riskRt=0.2; 
+0	12:19:11.751	Test EURUSD,M30: initialized
+0	12:19:11.756	Test EURUSD,M30: Alert: accEquity: 200
+0	12:19:11.756	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:19:11.756	Test EURUSD,M30: Alert: tickValue: 1
+0	12:19:11.761	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	12:19:11.761	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	12:19:11.761	Test EURUSD,M30: Alert: ooldslklotsize = 4.76
+0	12:19:11.761	Test EURUSD,M30: Alert: 4.76
+0	12:19:11.761	Test EURUSD,M30: uninit reason 0
+0	12:19:11.763	Script Test EURUSD,M30: removed
+0	12:21:16.928	Script Test EURUSD,M30: loaded successfully
+0	12:21:18.969	Test EURUSD,M30 inputs: riskRt=0.2; 
+0	12:21:18.985	Test EURUSD,M30: initialized
+0	12:21:18.985	Test EURUSD,M30: Alert: accEquity: 200
+0	12:21:18.985	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:21:18.985	Test EURUSD,M30: Alert: tickValue: 1
+0	12:21:18.985	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	12:21:18.985	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	12:21:18.985	Test EURUSD,M30: Alert: ooldslklotsize = 4.76
+0	12:21:18.985	Test EURUSD,M30: Alert: 4.76
+0	12:21:18.985	Test EURUSD,M30: uninit reason 0
+0	12:21:18.991	Script Test EURUSD,M30: removed
+0	12:22:31.865	Script Test EURUSD,M30: loaded successfully
+0	12:22:34.538	Test EURUSD,M30 inputs: riskRt=0.2; 
+0	12:22:34.560	Test EURUSD,M30: initialized
+0	12:22:34.560	Test EURUSD,M30: Alert: accEquity: 200
+0	12:22:34.560	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:22:34.560	Test EURUSD,M30: Alert: tickValue: 1
+0	12:22:34.560	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	12:22:34.560	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	12:22:34.560	Test EURUSD,M30: Alert: ooldslklotsize = 4.76
+0	12:22:34.560	Test EURUSD,M30: Alert: 4.76
+0	12:22:34.560	Test EURUSD,M30: uninit reason 0
+0	12:22:34.563	Script Test EURUSD,M30: removed
+0	12:23:36.983	Script Test EURUSD,M30: loaded successfully
+0	12:23:38.738	Test EURUSD,M30 inputs: riskRt=0.2; 
+0	12:23:38.780	Test EURUSD,M30: initialized
+0	12:23:38.780	Test EURUSD,M30: Alert: accEquity: 5000
+0	12:23:38.780	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:23:38.780	Test EURUSD,M30: Alert: tickValue: 1
+0	12:23:38.780	Test EURUSD,M30: Alert: maxLossDollar: 1000
+0	12:23:38.780	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 1000
+0	12:23:38.780	Test EURUSD,M30: Alert: ooldslklotsize = 119.05
+0	12:23:38.784	Test EURUSD,M30: Alert: 119.05
+0	12:23:38.784	Test EURUSD,M30: uninit reason 0
+0	12:23:38.787	Script Test EURUSD,M30: removed
+0	12:23:52.333	Script Test EURUSD,M30: loaded successfully
+0	12:23:54.663	Test EURUSD,M30 inputs: riskRt=0.2; 
+0	12:23:54.683	Test EURUSD,M30: initialized
+0	12:23:54.683	Test EURUSD,M30: Alert: accEquity: 5000
+0	12:23:54.683	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:23:54.683	Test EURUSD,M30: Alert: tickValue: 1
+0	12:23:54.683	Test EURUSD,M30: Alert: maxLossDollar: 1000
+0	12:23:54.683	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 1000
+0	12:23:54.683	Test EURUSD,M30: Alert: ooldslklotsize = 119.05
+0	12:23:54.683	Test EURUSD,M30: Alert: 119.05
+0	12:23:54.683	Test EURUSD,M30: uninit reason 0
+0	12:23:54.688	Script Test EURUSD,M30: removed
+0	12:24:22.052	Script Test EURUSD,M30: loaded successfully
+0	12:24:23.623	Test EURUSD,M30 inputs: riskRt=0.2; 
+0	12:24:23.662	Test EURUSD,M30: initialized
+0	12:24:23.664	Test EURUSD,M30: Alert: accEquity: 200
+0	12:24:23.664	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:24:23.664	Test EURUSD,M30: Alert: tickValue: 1
+0	12:24:23.664	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	12:24:23.664	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	12:24:23.665	Test EURUSD,M30: Alert: ooldslklotsize = 4.76
+0	12:24:23.688	Test EURUSD,M30: Alert: 4.76
+0	12:24:23.688	Test EURUSD,M30: uninit reason 0
+0	12:24:23.693	Script Test EURUSD,M30: removed
+0	12:30:41.519	Script Test EURUSD,M30: loaded successfully
+0	12:30:43.726	Test EURUSD,M30 inputs: riskRt=0.2; maxLoss=20; 
+0	12:30:43.770	Test EURUSD,M30: initialized
+0	12:30:43.770	Test EURUSD,M30: Alert: accEquity: 200
+0	12:30:43.770	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:30:43.770	Test EURUSD,M30: Alert: tickValue: 1
+0	12:30:43.770	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	12:30:43.770	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	12:30:43.795	Test EURUSD,M30: Alert: ooldslklotsize = 20
+0	12:30:43.796	Test EURUSD,M30: Alert: 20.0
+0	12:30:43.796	Test EURUSD,M30: uninit reason 0
+0	12:30:43.802	Script Test EURUSD,M30: removed
+0	12:30:54.358	Script Test EURUSD,M30: loaded successfully
+0	12:31:06.939	Test EURUSD,M30 inputs: riskRt=0.02; maxLoss=20; 
+0	12:31:06.974	Test EURUSD,M30: initialized
+0	12:31:06.974	Test EURUSD,M30: Alert: accEquity: 200
+0	12:31:06.974	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:31:06.974	Test EURUSD,M30: Alert: tickValue: 1
+0	12:31:06.980	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	12:31:06.986	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	12:31:06.986	Test EURUSD,M30: Alert: ooldslklotsize = 2
+0	12:31:06.986	Test EURUSD,M30: Alert: 2.0
+0	12:31:06.986	Test EURUSD,M30: uninit reason 0
+0	12:31:06.988	Script Test EURUSD,M30: removed
+0	12:33:30.253	Script Test EURUSD,M30: loaded successfully
+0	12:35:30.180	Test EURUSD,M30 inputs: riskRt=0.02; maxLoss=20; 
+0	12:35:30.223	Test EURUSD,M30: initialized
+0	12:35:30.223	Test EURUSD,M30: Alert: accEquity: 200
+0	12:35:30.223	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:35:30.223	Test EURUSD,M30: Alert: tickValue: 1
+0	12:35:30.234	Test EURUSD,M30: Alert: maxLossDollar: 4
+0	12:35:30.246	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 4
+0	12:35:30.246	Test EURUSD,M30: Alert: ooldslklotsize = 2
+0	12:35:30.246	Test EURUSD,M30: Alert: 2.0
+0	12:35:30.246	Test EURUSD,M30: uninit reason 0
+0	12:35:30.252	Script Test EURUSD,M30: removed
+0	12:41:29.746	Script Test EURUSD,M30: loaded successfully
+0	12:41:32.167	Test EURUSD,M30 inputs: riskRt=0.2; maxLoss=20; 
+0	12:41:32.210	Test EURUSD,M30: initialized
+0	12:41:32.210	Test EURUSD,M30: Alert: accEquity: 200
+0	12:41:32.210	Test EURUSD,M30: Alert: lotSize: 1000
+0	12:41:32.210	Test EURUSD,M30: Alert: tickValue: 1
+0	12:41:32.210	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	12:41:32.210	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	12:41:32.230	Test EURUSD,M30: Alert: ooldslklotsize = 20
+0	12:41:32.230	Test EURUSD,M30: Alert: 20.0
+0	12:41:32.230	Test EURUSD,M30: uninit reason 0
+0	12:41:32.233	Script Test EURUSD,M30: removed
+0	12:46:47.646	Script Test EURUSD,M30: loaded successfully
+0	12:46:49.825	Test EURUSD,M30 inputs: riskRt=0.2; maxLoss=20; 
+0	12:46:49.854	Test EURUSD,M30: initialized
+0	12:46:49.854	Test EURUSD,M30: Alert: accEquity: 200
+0	12:46:49.854	Test EURUSD,M30: Alert: lotSize: 100000
+0	12:46:49.854	Test EURUSD,M30: Alert: tickValue: 1
+0	12:46:49.854	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	12:46:49.854	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	12:46:49.867	Test EURUSD,M30: Alert: ooldslklotsize = 0.2
+0	12:46:49.867	Test EURUSD,M30: Alert: 0.2
+0	12:46:49.867	Test EURUSD,M30: uninit reason 0
+0	12:46:49.869	Script Test EURUSD,M30: removed
+0	12:47:28.690	Script Test EURUSD,M30: loaded successfully
+0	12:47:30.211	Test EURUSD,M30 inputs: riskRt=0.2; maxLoss=20; 
+0	12:47:30.261	Test EURUSD,M30: initialized
+0	12:47:30.262	Test EURUSD,M30: Alert: lotSize: 100000
+0	12:47:30.262	Test EURUSD,M30: uninit reason 0
+0	12:47:30.268	Script Test EURUSD,M30: removed
+0	12:48:00.066	Script Test EURUSD,M30: loaded successfully
+0	12:48:02.019	Test EURUSD,M30 inputs: riskRt=0.2; maxLoss=20; 
+0	12:48:02.049	Test EURUSD,M30: initialized
+0	12:48:02.049	Test EURUSD,M30: Alert: accEquity: 200
+0	12:48:02.049	Test EURUSD,M30: Alert: lotSize: 100000
+0	12:48:02.049	Test EURUSD,M30: Alert: tickValue: 1
+0	12:48:02.049	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	12:48:02.049	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	12:48:02.049	Test EURUSD,M30: Alert: ooldslklotsize = 0.2
+0	12:48:02.049	Test EURUSD,M30: Alert: 0.2
+0	12:48:02.089	Test EURUSD,M30: Alert: lotSize: 100000
+0	12:48:02.089	Test EURUSD,M30: uninit reason 0
+0	12:48:02.091	Script Test EURUSD,M30: removed
+0	12:48:53.734	Script Test EURUSD,M30: loaded successfully
+0	12:48:55.656	Test EURUSD,M30 inputs: riskRt=0.2; maxLoss=20; 
+0	12:48:55.723	Test EURUSD,M30: initialized
+0	12:48:55.724	Test EURUSD,M30: Alert: accEquity: 200
+0	12:48:55.724	Test EURUSD,M30: Alert: lotSize: 100000
+0	12:48:55.725	Test EURUSD,M30: Alert: tickValue: 1
+0	12:48:55.725	Test EURUSD,M30: Alert: maxLossDollar: 40
+0	12:48:55.739	Test EURUSD,M30: Alert: maxLossInQuoteCurr: 40
+0	12:48:55.739	Test EURUSD,M30: Alert: ooldslklotsize = 0.2
+0	12:48:55.739	Test EURUSD,M30: Alert: 0.2
+0	12:48:55.739	Test EURUSD,M30: Alert: lotSize: 100000
+0	12:48:55.739	Test EURUSD,M30: uninit reason 0
+0	12:48:55.742	Script Test EURUSD,M30: removed
+0	12:49:09.808	Script Test USDCHF,H1: loaded successfully
+0	12:49:12.903	Test USDCHF,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:49:12.920	Test USDCHF,H1: initialized
+0	12:49:12.920	Test USDCHF,H1: Alert: accEquity: 200
+0	12:49:12.920	Test USDCHF,H1: Alert: lotSize: k 100000
+0	12:49:12.920	Test USDCHF,H1: Alert: tickValue: 1.062326707955765
+0	12:49:12.920	Test USDCHF,H1: Alert: maxLossDollar: 40
+0	12:49:12.920	Test USDCHF,H1: Alert: maxLossInQuoteCurr: 37.6532
+0	12:49:12.920	Test USDCHF,H1: Alert: ooldslklotsize = 0.19
+0	12:49:12.920	Test USDCHF,H1: Alert: 0.19
+0	12:49:12.920	Test USDCHF,H1: uninit reason 0
+0	12:49:12.971	Script Test USDCHF,H1: removed

@@ -1,0 +1,104 @@
+0	11:30:42.133	Script Test USDCHF,H1: loaded successfully
+0	11:30:43.588	Test USDCHF,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	11:30:43.624	Test USDCHF,H1: initialized
+0	11:30:43.624	Test USDCHF,H1: Alert: -87.79342723004757
+0	11:30:43.624	Test USDCHF,H1: uninit reason 0
+0	11:30:43.713	Script Test USDCHF,H1: removed
+0	11:33:53.594	Script Test CADJPY,H1: loaded successfully
+0	11:33:55.662	Test CADJPY,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	11:33:55.707	Test CADJPY,H1: initialized
+0	11:33:55.710	Test CADJPY,H1: Alert: -59.34959349593724
+0	11:33:55.710	Test CADJPY,H1: uninit reason 0
+0	11:33:55.714	Script Test CADJPY,H1: removed
+0	11:34:43.333	Script Test CADJPY,H1: loaded successfully
+0	11:34:45.448	Test CADJPY,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	11:34:45.480	Test CADJPY,H1: initialized
+0	11:34:45.485	Test CADJPY,H1: Alert: 59.34959349593724
+0	11:34:45.485	Test CADJPY,H1: uninit reason 0
+0	11:34:45.489	Script Test CADJPY,H1: removed
+0	11:45:47.633	Script Test CADJPY,H1: loaded successfully
+0	11:45:49.443	Test CADJPY,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	11:45:49.485	Test CADJPY,H1: initialized
+0	11:45:49.487	Test CADJPY,H1: Alert: false
+0	11:45:49.487	Test CADJPY,H1: uninit reason 0
+0	11:45:49.491	Script Test CADJPY,H1: removed
+0	11:46:35.306	Script Test AUDUSD,H1: loaded successfully
+0	11:46:37.574	Test AUDUSD,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	11:46:37.617	Test AUDUSD,H1: initialized
+0	11:46:37.619	Test AUDUSD,H1: Alert: true
+0	11:46:37.619	Test AUDUSD,H1: uninit reason 0
+0	11:46:37.625	Script Test AUDUSD,H1: removed
+0	11:47:09.589	Script Test AUDUSD,H1: loaded successfully
+0	11:47:11.228	Test AUDUSD,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	11:47:11.264	Test AUDUSD,H1: initialized
+0	11:47:11.269	Test AUDUSD,H1: Alert: false
+0	11:47:11.269	Test AUDUSD,H1: uninit reason 0
+0	11:47:11.273	Script Test AUDUSD,H1: removed
+0	12:33:10.426	Script Test EURAUD,H1: loaded successfully
+0	12:33:11.873	Test EURAUD,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:33:11.917	Test EURAUD,H1: initialized
+0	12:33:11.917	Test EURAUD,H1: Alert: -24.55963000000015
+0	12:33:11.917	Test EURAUD,H1: uninit reason 0
+0	12:33:11.930	Script Test EURAUD,H1: removed
+0	12:34:31.993	Script Test EURAUD,H1: loaded successfully
+0	12:34:33.364	Test EURAUD,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:34:33.393	Test EURAUD,H1: initialized
+0	12:34:33.408	Test EURAUD,H1: Alert: -24.55963000000015
+0	12:34:33.408	Test EURAUD,H1: uninit reason 0
+0	12:34:33.412	Script Test EURAUD,H1: removed
+0	12:34:42.991	Script Test USDCHF,H1: loaded successfully
+0	12:34:44.563	Test USDCHF,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:34:44.611	Test USDCHF,H1: initialized
+0	12:34:44.611	Test USDCHF,H1: Alert: 14.68571428571406
+0	12:34:44.611	Test USDCHF,H1: uninit reason 0
+0	12:34:44.661	Script Test USDCHF,H1: removed
+0	12:35:31.750	Script Test USDCHF,H1: loaded successfully
+0	12:35:33.719	Test USDCHF,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:35:33.757	Test USDCHF,H1: initialized
+0	12:35:33.760	Test USDCHF,H1: Alert: 14.68571
+0	12:35:33.760	Test USDCHF,H1: uninit reason 0
+0	12:35:33.869	Script Test USDCHF,H1: removed
+0	12:41:07.479	Script Test USDCHF,H1: loaded successfully
+0	12:41:08.927	Test USDCHF,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:41:08.966	Test USDCHF,H1: initialized
+0	12:41:08.966	Test USDCHF,H1: Alert: 0.9401
+0	12:41:08.966	Test USDCHF,H1: uninit reason 0
+0	12:41:09.085	Script Test USDCHF,H1: removed
+0	12:41:20.948	Script Test EURAUD,H1: loaded successfully
+0	12:41:22.757	Test EURAUD,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:41:22.797	Test EURAUD,H1: initialized
+0	12:41:22.799	Test EURAUD,H1: Alert: 1.43777
+0	12:41:22.799	Test EURAUD,H1: uninit reason 0
+0	12:41:22.803	Script Test EURAUD,H1: removed
+0	12:45:40.122	Script Test EURAUD,H1: loaded successfully
+0	12:45:41.473	Test EURAUD,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:45:41.504	Test EURAUD,H1: initialized
+0	12:45:41.504	Test EURAUD,H1: Alert: 26.0
+0	12:45:41.504	Test EURAUD,H1: Alert: 1.43777
+0	12:45:41.504	Test EURAUD,H1: uninit reason 0
+0	12:45:41.523	Script Test EURAUD,H1: removed
+0	12:45:55.803	Script Test EURUSD,H1: loaded successfully
+0	12:45:57.325	Test EURUSD,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:45:57.353	Test EURUSD,H1: initialized
+0	12:45:57.354	Test EURUSD,H1: Alert: 16.27143
+0	12:45:57.354	Test EURUSD,H1: Alert: 1.02412
+0	12:45:57.354	Test EURUSD,H1: uninit reason 0
+0	12:45:57.357	Script Test EURUSD,H1: removed
+0	12:54:14.075	Script Test EURUSD,H1: loaded successfully
+0	12:54:15.848	Test EURUSD,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:54:15.878	Test EURUSD,H1: initialized
+0	12:54:15.878	Test EURUSD,H1: Alert: 1.02412
+0	12:54:15.878	Test EURUSD,H1: uninit reason 0
+0	12:54:15.890	Script Test EURUSD,H1: removed
+0	12:55:49.927	Script Test EURUSD,H1: loaded successfully
+0	12:55:51.740	Test EURUSD,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:55:51.771	Test EURUSD,H1: initialized
+0	12:55:51.771	Test EURUSD,H1: Alert: 1.0225
+0	12:55:51.771	Test EURUSD,H1: uninit reason 0
+0	12:55:51.787	Script Test EURUSD,H1: removed
+0	12:56:06.386	Script Test EURUSD,H1: loaded successfully
+0	12:56:07.656	Test EURUSD,H1 inputs: riskRt=0.2; maxLoss=20; 
+0	12:56:07.699	Test EURUSD,H1: initialized
+0	12:56:07.699	Test EURUSD,H1: Alert: 1.0225
+0	12:56:07.699	Test EURUSD,H1: uninit reason 0
+0	12:56:07.707	Script Test EURUSD,H1: removed
